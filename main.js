@@ -42,7 +42,7 @@ class BlockChain{
     this.chain=[this.createGenesisBlock()];
     this.difficuly = 3;
     this.pendingSupplyApprove = [];
-    this.ApprovalRewords =100;
+    this.ApprovalRewords = 100;
 
   }
 
